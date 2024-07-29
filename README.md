@@ -1,19 +1,6 @@
-# UTAPU_Google_Hackathon
+## I am the team leader of UTAPU, Wong Yi Ren from APU
 
-This repository contains Google Apps Script code for the UTAPU team participating in the Google Hackathon. It includes scripts for automating tasks in 
-
-## Google Sheets (From Google Form)
-###### - Create Google Docs from Sheets
-###### - Create and send Email for confirmation of submission
-
-## Google Docs (From Google Sheets).
-###### - Create a personalized welcome message with variable input from HR Staff
-
-I am the leader Wong Yi Ren from APU
-
-
-
-# UTAPU_Google_Hackathon
+# UTAPU_Google_Hackathon_2024
 Welcome to the repository for the UTAPU team's project for the Google Hackathon! Our project aims to automate the employee onboarding process using Google Apps Script and various Google Workspace tools. This repository contains the scripts and resources needed to streamline tasks in Google Sheets, Google Docs, and Gmail.
 
 ## Project Overview
@@ -26,9 +13,8 @@ The employee onboarding process is often time-consuming and inefficient, involvi
 
 ## Repository Structure
 Google Sheets Scripts:
-###### - Scripts for generating Google Docs from the collected data in Google Sheets.
-###### - Scripts for creating and sending confirmation emails upon form submission.
+###### - Auto_Submission_Confirmation_Email : Scripts for creating and sending confirmation emails upon Google Form submission.
+###### - Autofill_Docs : Scripts for generating personalized Google Docs from the collected data in Google Sheets.
 
 Google Docs Scripts:
-
-Scripts for creating personalized welcome messages using variable input from HR staff.
+###### - Auto_Mailer : Scripts for creating personalized welcome messages using variable input from HR staff
